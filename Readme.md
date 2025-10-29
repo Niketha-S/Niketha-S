@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niketha Sabesan</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketha-s&label=Profile%20views&color=0e75b6&style=flat" alt="niketha-s" /> </p>
 
